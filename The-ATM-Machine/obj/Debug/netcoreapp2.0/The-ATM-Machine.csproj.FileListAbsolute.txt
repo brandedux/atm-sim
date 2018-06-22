@@ -1,0 +1,11 @@
+D:\School\Projecten\ATM-Machine\The-ATM-Machine\The-ATM-Machine\bin\Debug\netcoreapp2.0\The-ATM-Machine.deps.json
+D:\School\Projecten\ATM-Machine\The-ATM-Machine\The-ATM-Machine\bin\Debug\netcoreapp2.0\The-ATM-Machine.runtimeconfig.json
+D:\School\Projecten\ATM-Machine\The-ATM-Machine\The-ATM-Machine\bin\Debug\netcoreapp2.0\The-ATM-Machine.runtimeconfig.dev.json
+D:\School\Projecten\ATM-Machine\The-ATM-Machine\The-ATM-Machine\bin\Debug\netcoreapp2.0\The-ATM-Machine.dll
+D:\School\Projecten\ATM-Machine\The-ATM-Machine\The-ATM-Machine\obj\Debug\netcoreapp2.0\The-ATM-Machine.csproj.CoreCompileInputs.cache
+D:\School\Projecten\ATM-Machine\The-ATM-Machine\The-ATM-Machine\obj\Debug\netcoreapp2.0\The-ATM-Machine.AssemblyInfoInputs.cache
+D:\School\Projecten\ATM-Machine\The-ATM-Machine\The-ATM-Machine\obj\Debug\netcoreapp2.0\The-ATM-Machine.AssemblyInfo.cs
+D:\School\Projecten\ATM-Machine\The-ATM-Machine\The-ATM-Machine\bin\Debug\netcoreapp2.0\The-ATM-Machine.pdb
+D:\School\Projecten\ATM-Machine\The-ATM-Machine\The-ATM-Machine\obj\Debug\netcoreapp2.0\The-ATM-Machine.dll
+D:\School\Projecten\ATM-Machine\The-ATM-Machine\The-ATM-Machine\obj\Debug\netcoreapp2.0\The-ATM-Machine.pdb
+D:\School\Projecten\ATM-Machine\The-ATM-Machine\The-ATM-Machine\obj\Debug\netcoreapp2.0\The-ATM-Machine.csprojResolveAssemblyReference.cache
